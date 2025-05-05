@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Pedro 👋
 
-<!--
-**PedCoelho/PedCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently working on enhancing performance and user experience in large-scale web applications.  
+📖 Learning about full-stack software development and new ways to bridge creativity and code.  
+🤝 Let’s collaborate on open-source tooling and interactive web-content!  
 
-Here are some ideas to get you started:
+🎨 **Fun fact:**  I'm also an origami enthusiast and hobbyist musician.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me at:**  
+[🔗 LinkedIn](https://www.linkedin.com/in/pedcoelho)  
+[📸 Instagram](https://www.instagram.com/tetrictantra)  
+
+### 📈 Stats
+<div>
+  <img height=200 align="center" src="https://github-readme-stats-gray-theta.vercel.app/api?username=PedCoelho&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=true&custom_title=GitHub%20Activity" />
+  <img height=200 align="center" src="https://github-readme-stats-gray-theta.vercel.app/api/top-langs?username=PedCoelho&theme=transparent&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&hide=css,scss" />
+</div>
+
+---
+
+Thanks for stopping by — always happy to learn, share, and build meaningful things collectively 🌱
