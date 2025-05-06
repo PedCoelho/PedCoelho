@@ -10,9 +10,9 @@
 [🔗 LinkedIn](https://www.linkedin.com/in/pedcoelho)  
 [📸 Instagram](https://www.instagram.com/tetrictantra)  
 
-### 📈 Stats
+### 📈 Github Stats
 <div>
-  <img height=200 align="center" src="https://github-readme-stats-gray-theta.vercel.app/api?username=PedCoelho&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=true&custom_title=GitHub%20Activity" />
+  <img height=200 align="center" src="https://github-readme-stats-gray-theta.vercel.app/api?username=PedCoelho&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=true&custom_title=Activity%20Summary" />
   <img height=200 align="center" src="https://github-readme-stats-gray-theta.vercel.app/api/top-langs?username=PedCoelho&theme=transparent&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&hide=css,scss" />
 </div>
 
